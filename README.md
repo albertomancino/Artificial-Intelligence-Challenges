@@ -26,12 +26,12 @@ Each challenge is briefly described below:<br/>
 **If you publish any work which uses the code stored in this project, please cite the following creators:** <br/>
 Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
 <br/>
-
+<br/>
 **Developers** <br/>
 Sergio Abascià  <br/>
 Gianluca Azzollini <br/>
 Alberto Carlo Maria Mancino <br/>
-
+<br/>
 
 **Contacts** <br/>
 We are happy to help you with any question. Please contact us on our mails: <br/>
