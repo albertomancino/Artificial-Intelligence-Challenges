@@ -24,7 +24,7 @@ Each challenge is briefly described below:<br/>
 <br/>
 
 **If you publish any work which uses the code stored in this project, please cite the following creators:** <br/>
-Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
+Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino <br/>
 <br/>
 <br/>
 **Developers** <br/>
