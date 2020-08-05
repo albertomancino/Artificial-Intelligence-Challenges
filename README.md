@@ -27,7 +27,7 @@ Each challenge is briefly described below:
 Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
 
 **Developers** <br/>
-Sergio Abascià
+Sergio Abascià  <br/>
 Gianluca Azzollini <br/>
 Alberto Carlo Maria Mancino <br/>
 
