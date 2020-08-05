@@ -2,7 +2,7 @@
 Four challenges taken by the students of the Artificial Intelligence and Machine Learning course at ‘Politecnico Di Bari’. 
 The aim of these challenges is to test both theoretical knowledge and coding skills about Artificial Intelligence topics covered in the lessons. 
 The students had 2 hours and half for each challenge to implement a solution using Artificial Intelligence principles and algorithms.
-
+<br/>
 
 The topics covered by these challenges are:<br/>
 **Search strategies**: uninformed search and informed search.
@@ -13,7 +13,7 @@ Informed search using greedy best-first search, A* search.
 
 **Adversarial search**: minimax algorithm, alfa-beta pruning technique, search cutting.
 
-**Prolog problem modeling** using backtracking search strategy to resolve a Constraint Satisfaction Problem.
+**Prolog problem modeling** using backtracking search strategy to resolve a Constraint Satisfaction Problem. <br/>
 <br/>
 <br/>
 Each challenge is briefly described below:<br/>
