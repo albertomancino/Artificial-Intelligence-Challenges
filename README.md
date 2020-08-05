@@ -14,18 +14,18 @@ Informed search using greedy best-first search, A* search.
 **Adversarial search**: minimax algorithm, alfa-beta pruning technique, search cutting.
 
 **Prolog problem modeling** using backtracking search strategy to resolve a Constraint Satisfaction Problem.
-
+<br/>
 
 Each challenge is briefly described below:<br/>
 - **LOCAL SEARCH CHALLENGE**: based on a maze composed by a rectangular grid having specific positions occupied by walls. The problem to solve is to find the shortest path implementing 3 different search strategies: Breadth First, Depth First, A*, satisfying specific rules.
 - **AI CSP CHALLENGE**: based on a constraint satisfaction problem, solved implementing Backtracking-Search algorithm and Local Search. The problem to solve is not to overcome the maximum capacity of each container, distributing items in different containers within the constraints imposed by the problem itself.
 - **MINIMAX CHALLENGE**: based on the movements of two opposed agents on a 2D board. Giving a define set of rules, the problem to solve is modeling the game using minimax algorithm, implementing alpha-beta pruning to the search tree.
 - **PROLOG CHALLENGE**: showing all the possible solutions for the escape of few individuals, from a place covered with traps using Prolog.
-
+<br/>
 
 **If you publish any work which uses the code stored in this project, please cite the following creators:** <br/>
 Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
-
+<br/>
 
 **Developers** <br/>
 Sergio Abascià  <br/>
