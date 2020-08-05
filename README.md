@@ -1,6 +1,6 @@
 **Artificial Intelligence Challenges** </br>
 
-4 challenges accomplished during the Artificial Intelligence and Machine Learning course at Poliba' Computer Science Master. Tree Search, MinMax, Constraint Satisfaction Problems.
+4 challenges accomplished during the Artificial Intelligence and Machine Learning course at Poliba' Computer Science Master. Tree Search, Minimax, Constraint Satisfaction Problems.
 
 Four challenges taken by the students of the Artificial Intelligence and Machine Learning course at ‘Politecnico Di Bari’. The aim of these challenges is to test both the theoretical knowledge  and coding skills about the Artificial Intelligence topics covered in the lessons. The students had 2 hours and half for each challenge to implement a solution using Artificial Intelligence principles and algorithms.
 
